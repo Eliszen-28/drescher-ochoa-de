@@ -25,3 +25,16 @@ header a:focus-visible,.hero a:focus-visible{outline-color:#7d302c}
 .blog-catalog .cover{height:235px}
 @media(max-width:1000px){.blog-catalog{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:650px){.blog-catalog{grid-template-columns:1fr}.blog-catalog .cover{height:235px}}
+
+/* A soft sage closing sequence with forest text and one warm accent. */
+.holla{background:#f0f4e9;color:#243c2b}
+.holla h2 em{color:#365b3c}
+.holla .dark{background:#ffad42;color:#243c2b}
+.holla .dark:hover{background:#ffbf68}
+.contact-section{background:#dce7c2;color:#243c2b}
+.contact-section>a{border-color:#809674}
+.contact-section>a:hover{color:#365b3c}
+footer{background:#bdcfa8;color:#243c2b;border-top:1px solid #a4b995}
+footer p{opacity:1;color:#36513b}
+footer a:hover{text-decoration:underline;text-underline-offset:4px}
+.holla a:focus-visible,.contact-section a:focus-visible,footer a:focus-visible{outline-color:#365b3c}
