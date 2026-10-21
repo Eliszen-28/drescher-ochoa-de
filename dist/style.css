@@ -102,3 +102,7 @@ header .brand-flower{display:block;width:48px;height:51px;object-fit:contain;lef
 .foundation-quote{grid-template-columns:65px 1fr}
 @media(max-width:850px){.foundation-quote{grid-template-columns:45px 1fr}}
 @media(max-width:650px){.foundation-quote{grid-template-columns:1fr}.ribbon{gap:22px}}
+
+/* Remove the portrait seal on every screen size. */
+.about .portrait-stamp{display:none!important}
+.about .portrait-wrap{gap:0;padding:20px 0}
