@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 68" fill="none">
+<title>Blauer Schmetterling auf einer Sonnenblume</title>
+<defs><ellipse id="petal" cx="27" cy="21" rx="4.2" ry="9"/></defs>
+<path d="M27 44v19" stroke="#4F7645" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M27 57c-9 1-14-3-15-8 8-1 13 2 15 8Z" fill="#79975B"/>
+<path d="M28 61c1-7 5-11 12-11-1 7-5 11-12 11Z" fill="#4F7645"/>
+<g fill="#E9B439"><use href="#petal"/><use href="#petal" transform="rotate(40 27 36)"/><use href="#petal" transform="rotate(80 27 36)"/><use href="#petal" transform="rotate(120 27 36)"/><use href="#petal" transform="rotate(160 27 36)"/><use href="#petal" transform="rotate(200 27 36)"/><use href="#petal" transform="rotate(240 27 36)"/><use href="#petal" transform="rotate(280 27 36)"/><use href="#petal" transform="rotate(320 27 36)"/></g>
+<circle cx="27" cy="36" r="9.5" fill="#795333"/>
+<circle cx="27" cy="36" r="5.5" fill="#936A3D"/>
+<path d="M44 23C32 20 30 9 35 7c5-2 10 5 9 16Z" fill="#2589CE"/>
+<path d="M44 23c-1-13 5-22 10-19 6 4 2 15-10 19Z" fill="#2076BA"/>
+<path d="M44 23c-9-3-15 1-11 6 4 4 9 0 11-6Z" fill="#7BC7E6"/>
+<path d="M44 23c8-7 15-6 14 0-1 6-9 6-14 0Z" fill="#52ADDC"/>
+<path d="m46 18-5 12" stroke="#24516A" stroke-width="2" stroke-linecap="round"/>
+<path d="M46 18v-5m0 5 4-4" stroke="#24516A" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
