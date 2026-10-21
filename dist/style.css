@@ -20,3 +20,8 @@ header a:focus-visible,.hero a:focus-visible{outline-color:#7d302c}
 /* Quiet bamboo illustration behind the introduction. */
 .about-copy{position:relative;isolation:isolate}
 .about-copy::before{content:"";position:absolute;inset:0;z-index:-1;background:url("assets/bamboo.svg") right center/cover no-repeat;opacity:.12;pointer-events:none}
+
+.blog-catalog{grid-template-columns:repeat(3,1fr)}
+.blog-catalog .cover{height:235px}
+@media(max-width:1000px){.blog-catalog{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:650px){.blog-catalog{grid-template-columns:1fr}.blog-catalog .cover{height:235px}}
