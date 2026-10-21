@@ -1,0 +1,85 @@
+{
+  "linked_text_urls": 5,
+  "repaired_hrefs": 4,
+  "video_players": 8,
+  "articles": 28,
+  "external_links": [
+    {
+      "url": "https://Chancen.lifbi.de/de-de/Start/Aktuelles-Medien/Neuigkeiten/details/gleiche-leistung-ungleiche-chancen",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://deutsches-schulportal.de/schulkultur/kuenstliche-intelligenz-ki-im-unterricht-chancen-risiken-und-praxistipps",
+      "status": 200,
+      "final_url": "https://deutsches-schulportal.de/schulkultur/kuenstliche-intelligenz-ki-im-unterricht-chancen-risiken-und-praxistipps/"
+    },
+    {
+      "url": "https://eado.app/en/book/systemisches-management-evolution-selbstorganisationfredmund-malik/9783258059938",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://holistischepaedagogik.de",
+      "status": 200,
+      "final_url": "https://www.holistischepaedagogik.de/"
+    },
+    {
+      "url": "https://tkp.at/2026/04/18/der-einsatz-von-ki-scheint-die-intellektuellen-faehigkeiten-der-nutzer-einzuschraenken-studie/",
+      "status": 200,
+      "final_url": "https://tkp.at/2026/04/18/der-einsatz-von-ki-scheint-die-intellektuellen-faehigkeiten-der-nutzer-einzuschraenken-studie/"
+    },
+    {
+      "url": "https://www.abc.es/salud/enfermedades/rafael-yuste-neurocientifico-necesitamos-ley-supranacional-proteja-20251018030103-nt.html",
+      "status": 403
+    },
+    {
+      "url": "https://www.freepik.es",
+      "status": 403
+    },
+    {
+      "url": "https://www.freepik.es/fotos/nino-aprendiendo",
+      "status": 403
+    },
+    {
+      "url": "https://www.freepik.es/fotos/nino-interior",
+      "status": 403
+    },
+    {
+      "url": "https://www.freepik.es/vectores/medicina-nuclear",
+      "status": 403
+    },
+    {
+      "url": "https://www.holistischepaedagogik.de/",
+      "status": 200,
+      "final_url": "https://www.holistischepaedagogik.de/"
+    },
+    {
+      "url": "https://www.holistischepaedagogik.de/post/neurorechte-in-der-schule",
+      "status": 200,
+      "final_url": "https://www.holistischepaedagogik.de/post/neurorechte-in-der-schule"
+    },
+    {
+      "url": "https://www.i.pinimg.com/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://www.waldorfpeninsula.org",
+      "status": 200,
+      "final_url": "https://www.waldorfpeninsula.org"
+    },
+    {
+      "url": "https://www.youtube.com/@NetzwerkHolistischeP%C3%A4dagogik",
+      "status": 200,
+      "final_url": "https://www.youtube.com/@NetzwerkHolistischeP%C3%A4dagogik"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P_MG5qXTaNg",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=P_MG5qXTaNg"
+    },
+    {
+      "url": "https://youtu.be/KjUEEjdE3rw",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=KjUEEjdE3rw&feature=youtu.be"
+    }
+  ]
+}
