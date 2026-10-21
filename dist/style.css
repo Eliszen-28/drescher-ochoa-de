@@ -12,3 +12,7 @@ header .brand-flower,.hero .spark{color:#a44740}
 .hero .pink:hover{background:#8b3934}
 .hero .round-link:hover{background:#dce7c2}
 header a:focus-visible,.hero a:focus-visible{outline-color:#7d302c}
+
+/* Warm marigold band complements the sage opening. */
+.ribbon{background:#efbd58;color:#884329}
+.ribbon span{color:#243c2b}
