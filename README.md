@@ -39,3 +39,11 @@ Las direcciones canónicas y el mapa del sitio apuntan al dominio de publicació
 Textos, imágenes y publicaciones proceden del sitio original https://drescher-ochoa.net/ y de los materiales aportados por la propietaria. Los derechos corresponden a sus respectivos titulares. No se concede una licencia de reutilización adicional mediante este repositorio.
 
 El diploma incluye la fotografía original y una versión aclarada para presentación en pantalla.
+
+## GitHub Pages
+
+La acción `.github/workflows/pages.yml` publica automáticamente `dist/` cuando cambia `main`.
+
+**GitHub Pages:** https://eliszen-28.github.io/drescher-ochoa-de/
+
+`prepare-github-pages.py` adapta las rutas al prefijo `/drescher-ochoa-de/` en el artefacto de publicación. Los archivos de producción y sus direcciones canónicas de Sites permanecen intactos.
