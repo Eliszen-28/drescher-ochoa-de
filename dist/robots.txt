@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/sitemap.xml
