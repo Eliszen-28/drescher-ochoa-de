@@ -96,3 +96,9 @@ footer a:hover{text-decoration:underline;text-underline-offset:4px}
 header .brand-flower{display:block;width:48px;height:51px;object-fit:contain;left:126px;top:-6px}
 .footer-brand{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}.footer-mark{display:block;flex:none;width:36px;height:38px;object-fit:contain}
 @media(max-width:650px){header .brand-flower{left:109px;top:-6px;width:42px;height:45px}}
+
+/* No decorative asterisks on any viewport, including mobile. */
+.hero .spark,.quote-band>span,.quote-flower{display:none}
+.foundation-quote{grid-template-columns:65px 1fr}
+@media(max-width:850px){.foundation-quote{grid-template-columns:45px 1fr}}
+@media(max-width:650px){.foundation-quote{grid-template-columns:1fr}.ribbon{gap:22px}}
