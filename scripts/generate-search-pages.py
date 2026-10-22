@@ -1,16 +1,13 @@
 from pathlib import Path
-from urllib.parse import quote
 from html import escape,unescape
 import json,re,unicodedata,xml.etree.ElementTree as ET
 root=Path(__file__).resolve().parents[1];dist=root/'dist';d=json.loads((dist/'data.js').read_text()[15:-1]);origin='https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site';author='Heidrun Drescher-Ochoa'
 def text(s):return re.sub(r'\s+',' ',unescape(re.sub('<[^>]*>',' ',s))).strip()
 def slug(s):return re.sub('[^a-z0-9]+','-',unicodedata.normalize('NFKD',s).encode('ascii','ignore').decode().lower()).strip('-')
 def js(d):return json.dumps(d,ensure_ascii=False).replace('<','\\u003c')
-def translate_button(url):
- return '<a class="translate-button" lang="es" data-translate href="https://translate.google.com/translate?sl=de&amp;tl=es&amp;u='+quote(url,safe='')+'" target="_blank" rel="noopener noreferrer" title="Traducción automática con Google Translate" aria-label="Traducir esta página al castellano con Google Translate">Castellano</a>'
 def head(title,desc,path,schema,img=None):
  url=origin+path
- return '<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+escape(title)+' · Drescher Ochoa</title><meta name="description" content="'+escape(desc,quote=True)+'"><meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"><link rel="canonical" href="'+url+'"><meta property="og:type" content="'+('article' if '/artikel/' in path else 'website')+'"><meta property="og:title" content="'+escape(title,quote=True)+'"><meta property="og:description" content="'+escape(desc,quote=True)+'"><meta property="og:url" content="'+url+'"><meta property="og:locale" content="de_DE">'+('<meta property="og:image" content="'+origin+'/'+img+'">' if img else '')+'<link rel="stylesheet" href="/style.css"><script type="application/ld+json">'+js(schema)+'</script></head><body><header><a class="brand" href="/">drescher<img class="brand-flower" src="/assets/logo-schmetterling-sonnenblume.svg" alt="" aria-hidden="true" width="48" height="51"><br>ochoa<span class="brand-small">BILDUNG. MENSCH. POTENZIAL.</span></a>'+translate_button(url)+'</header>'
+ return '<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+escape(title)+' · Drescher Ochoa</title><meta name="description" content="'+escape(desc,quote=True)+'"><meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"><link rel="canonical" href="'+url+'"><meta property="og:type" content="'+('article' if '/artikel/' in path else 'website')+'"><meta property="og:title" content="'+escape(title,quote=True)+'"><meta property="og:description" content="'+escape(desc,quote=True)+'"><meta property="og:url" content="'+url+'"><meta property="og:locale" content="de_DE">'+('<meta property="og:image" content="'+origin+'/'+img+'">' if img else '')+'<link rel="stylesheet" href="/style.css"><script type="application/ld+json">'+js(schema)+'</script></head><body><header><a class="brand" href="/">drescher<img class="brand-flower" src="/assets/logo-schmetterling-sonnenblume.svg" alt="" aria-hidden="true" width="48" height="51"><br>ochoa<span class="brand-small">BILDUNG. MENSCH. POTENZIAL.</span></a></header>'
 def footer():return (root/"content/site-footer.html").read_text()+"</body></html>"
 def book_actions(p):
  if p.get('type')!='Buch':return ''
