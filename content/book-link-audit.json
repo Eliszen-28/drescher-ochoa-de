@@ -1,0 +1,47 @@
+{
+  "checkedOn": "2026-10-21",
+  "httpChecks": [
+    {
+      "url": "https://www.holistischepaedagogik.de/product-page/produktives-denken-und-handeln",
+      "status": 200,
+      "title": "Produktives Denken und Handeln | HolistischePädagogik",
+      "final": "https://www.holistischepaedagogik.de/product-page/produktives-denken-und-handeln"
+    },
+    {
+      "url": "https://www.holistischepaedagogik.de/product-page/biographiearbeit-an-schulen",
+      "status": 200,
+      "title": "Biographiearbeit an Schulen | HolistischePädagogik",
+      "final": "https://www.holistischepaedagogik.de/product-page/biographiearbeit-an-schulen"
+    },
+    {
+      "url": "https://www.holistischepaedagogik.de/product-page/wie-holistische-p%C3%A4dagogik-in-die-schule-kommt-eine-handreichung",
+      "status": 200,
+      "title": "Wie Holistische Pädagogik in die Schule kommt! Eine Handreichung | HolistischePädagogik",
+      "final": "https://www.holistischepaedagogik.de/product-page/wie-holistische-p%C3%A4dagogik-in-die-schule-kommt-eine-handreichung"
+    },
+    {
+      "url": "https://www.holistischepaedagogik.de/product-page/das-enneagramm-entdecken-f%C3%BCr-jugendliche-freigeister",
+      "status": 200,
+      "title": "Typologien des Enneagramms. Für jugendliche Freigeister | HolistischePädagogik",
+      "final": "https://www.holistischepaedagogik.de/product-page/das-enneagramm-entdecken-f%C3%BCr-jugendliche-freigeister"
+    },
+    {
+      "url": "https://www.holistischepaedagogik.de/product-page/von-der-raupe-zum-schmetterling",
+      "status": 200,
+      "title": "Von der Raupe zum Schmetterling | HolistischePädagogik",
+      "final": "https://www.holistischepaedagogik.de/product-page/von-der-raupe-zum-schmetterling"
+    },
+    {
+      "url": "https://www.holistischepaedagogik.de/product-page/change-management-f%C3%BCr-den-paradigmenwechsel",
+      "status": 200,
+      "title": "Achtsamkeitskultur in Schulen | HolistischePädagogik",
+      "final": "https://www.holistischepaedagogik.de/product-page/change-management-f%C3%BCr-den-paradigmenwechsel"
+    },
+    {
+      "url": "https://www.drescher-ochoa.net/de/rezension/",
+      "error": "HTTP Error 500: Internal Server Error"
+    }
+  ],
+  "reviewStrategy": "Local per-book review sections; published Enneagramm reviews summarized from original page. No reviews invented for other titles.",
+  "purchaseFallback": "book6 and book7 use title-specific mailto purchase inquiries."
+}
