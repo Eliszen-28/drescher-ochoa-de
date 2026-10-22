@@ -42,6 +42,6 @@
       "error": "HTTP Error 500: Internal Server Error"
     }
   ],
-  "reviewStrategy": "Local per-book review sections; published Enneagramm reviews summarized from original page. No reviews invented for other titles.",
+  "reviewStrategy": "Only book0 has a review button and published review summaries. Other books have no review button, empty review section, or email review request.",
   "purchaseFallback": "book6 and book7 use title-specific mailto purchase inquiries."
 }

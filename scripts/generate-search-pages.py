@@ -13,7 +13,7 @@ def book_actions(p):
  if p.get('type')!='Buch':return ''
  target=' target="_blank" rel="noopener"' if p['buyUrl'].startswith('https:') else ''
  note='<p class="book-action-note">Kaufanfrage per E-Mail an die Autorin.</p>' if p['buyUrl'].startswith('mailto:') else ''
- return '<div class="book-actions"><a class="book-buy" href="'+escape(p['buyUrl'],quote=True)+'"'+target+'>Buch kaufen </a><a class="book-review" href="'+escape(p['reviewUrl'],quote=True)+'">Rezension </a></div>'+note
+ return '<div class="book-actions"><a class="book-buy" href="'+escape(p['buyUrl'],quote=True)+'"'+target+'>Buch kaufen </a>'+('<a class="book-review" href="'+escape(p['reviewUrl'],quote=True)+'">Rezension </a>' if p.get('hasReview') else '')+'</div>'+note
 urls=['/','/blog/','/bibliothek/','/impressum/','/datenschutzerklaerung/'];mapping={};listing={}
 for items,folder,index in [(d['posts'],'artikel','blog'),(d['books'],'buecher','bibliothek')]:
  listing[index]=[]
