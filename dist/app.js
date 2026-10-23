@@ -5,7 +5,7 @@ const openButton=p=>`<button class="image-button" data-open="${p.id}" aria-label
 
 const bookActions=p=>p.type==='Buch'?`<div class="book-actions"><a class="book-buy" href="${esc(p.buyUrl)}" ${p.buyUrl.startsWith('https:')?'target="_blank" rel="noopener"':''}>Buch kaufen </a>${p.hasReview?`<a class="book-review" href="${esc(window.CONTENT_PATHS[p.id])}#rezension">Rezension </a>`:''}</div>${p.buyUrl.startsWith('mailto:')?'<p class="book-action-note">Kaufanfrage per E-Mail an die Autorin.</p>':''}`:'';
 $('#portrait').src=portrait;
-$('#hero-books').innerHTML=[books[1],books[0]].map(b=>`<img class="hero-book" src="${esc(b.image)}" alt="${esc(b.title)}">`).join('');
+
 const sections=[{id:'bibliothek',prefix:'',items:books,type:'Alle',topic:'Alle Themen',limit:12},{id:'blog',prefix:'blog-',items:posts,type:'Alle',topic:'Alle Themen',limit:6}];
 const field=(s,name)=>$('#'+s.prefix+name);
 function render(s){
