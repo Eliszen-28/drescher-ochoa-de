@@ -129,3 +129,5 @@ button,a.button,.read-link,.text-link,.contact,.contact-section>a,.book-actions 
 /* Header simplified; back-to-top keeps its familiar arrow icon. */
 .back-to-top{width:54px;min-width:54px;height:54px;padding:14px;border-radius:50%;display:flex;align-items:center;justify-content:center}.back-to-top svg{width:24px;height:24px;display:block}@media(max-width:650px){header{min-height:95px;padding-block:20px}header .brand{min-width:0}}
 
+
+.about-copy-updated h2{font-size:clamp(30px,3vw,43px);margin-bottom:22px;letter-spacing:-1.3px}.about-copy-updated h3{font:800 clamp(22px,2.2vw,30px)/1.25 'Manrope',sans-serif;letter-spacing:-.6px;margin:34px 0 16px}.about-copy-updated p{line-height:1.85}.about-copy-updated .self-knowledge-quote{padding:20px 22px;background:#f4f7edcc;border-radius:12px;margin-bottom:28px}.about-copy-updated .self-knowledge-quote strong{font-weight:700}@media(max-width:650px){.about-copy-updated{padding:40px 7%}.about-copy-updated .self-knowledge-quote{padding:18px}}
