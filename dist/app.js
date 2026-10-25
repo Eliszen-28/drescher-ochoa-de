@@ -4,7 +4,7 @@ const date=s=>new Date(s).toLocaleDateString('de-DE',{day:'numeric',month:'short
 const openButton=p=>`<button class="image-button" data-open="${p.id}" aria-label="${esc(p.title)} lesen"><img src="${esc(p.image)}" alt="${esc(p.title)}" loading="lazy"></button>`;
 
 const bookActions=p=>p.type==='Buch'?`<div class="book-actions"><a class="book-buy" href="${esc(p.buyUrl)}" ${p.buyUrl.startsWith('https:')?'target="_blank" rel="noopener"':''}>Buch kaufen </a>${p.hasReview?`<a class="book-review" href="${esc(window.CONTENT_PATHS[p.id])}#rezension">Rezension </a>`:''}</div>${p.buyUrl.startsWith('mailto:')?'<p class="book-action-note">Kaufanfrage per E-Mail an die Autorin.</p>':''}`:'';
-$('#portrait').src=portrait;
+
 
 const sections=[{id:'bibliothek',prefix:'',items:books,type:'Alle',topic:'Alle Themen',limit:12},{id:'blog',prefix:'blog-',items:posts,type:'Alle',topic:'Alle Themen',limit:6}];
 const field=(s,name)=>$('#'+s.prefix+name);
@@ -38,3 +38,5 @@ $('#reader-close').onclick=closeReader;$('#reader-back').onclick=closeReader;
 $('#reader').addEventListener('cancel',e=>{e.preventDefault();closeReader()});$('#reader').addEventListener('click',e=>{if(e.target===$('#reader'))closeReader()});
 if(location.hash.startsWith('#lesen-'))openReader(location.hash.slice(7));
 if(location.hash==='#impulse')location.hash='blog';
+
+if(location.hash==='#ueber')location.replace('#heidrun-intro');
