@@ -214,3 +214,17 @@ header .brand-small{position:static;grid-column:1/-1;font-size:8px;line-height:1
 @media(max-width:850px){#holla-fundament .foundation-heading{padding:30px;border-radius:28px 60px 28px 28px}#holla-fundament .holla-directions{gap:12px}#holla-fundament .holla-directions p{padding:22px 18px}#holla-fundament .holla-directions strong{font-size:18px}}
 @media(max-width:650px){#holla-fundament .foundation-heading{padding:26px 22px;gap:22px}#holla-fundament .foundation-heading h2{font-size:45px;letter-spacing:-2px}#holla-fundament .holla-directions{grid-template-columns:1fr;gap:12px}#holla-fundament .holla-directions p{padding:20px 24px}#holla-fundament .holla-directions p:before{margin-bottom:10px}#holla-fundament .holla-directions strong{display:block;font-size:22px}#holla-fundament .holla-story-copy .holla-program-part,#holla-fundament .holla-story-image .holla-program-part,#holla-fundament .holla-practice-grid,#holla-fundament .holla-vision{padding:24px}#holla-fundament .holla-child-photo{transform:none}}
 @media(prefers-reduced-motion:reduce){#holla-fundament .holla-directions p:hover{transform:none}}
+
+/* Heidrun: a warm, balanced editorial portrait. */
+#heidrun-intro{position:relative;isolation:isolate;grid-template-columns:minmax(0,.85fr) minmax(0,1.25fr);gap:7%;padding:76px 7%;background:linear-gradient(115deg,#e0f4ec 0%,#edf9f5 42%,#f5f5f5 42%);align-items:center}
+#heidrun-intro .heidrun-editorial-photo{position:relative;aspect-ratio:4/5;background:#fff;border:10px solid #fff;border-radius:100px 26px 26px 26px;box-shadow:14px 14px 0 #ffd84d,0 24px 50px #102a4312;overflow:hidden}
+#heidrun-intro .heidrun-editorial-photo img{border-radius:0;object-fit:cover;object-position:center}
+#heidrun-intro .heidrun-editorial-copy{padding:12px 0}
+#heidrun-intro .heidrun-editorial-opening{border-bottom:1px solid #c8dcd7;margin-bottom:25px;padding-bottom:25px}
+#heidrun-intro .heidrun-editorial-opening p{font:400 clamp(23px,2.35vw,33px)/1.43 Georgia,serif;letter-spacing:-.4px;margin:0;color:#102a43;text-wrap:pretty}
+#heidrun-intro .heidrun-editorial-body p{font-size:15px;line-height:1.85;margin-bottom:23px;text-wrap:pretty}
+#heidrun-intro .heidrun-editorial-body p:nth-child(2){padding:20px 22px;border-left:4px solid #20c997;background:#e4f5ee;border-radius:0 18px 18px 0}
+#heidrun-intro .heidrun-editorial-body strong{font-weight:800;color:#174e7a}
+#heidrun-intro .heidrun-editorial-body a{font-weight:600;text-decoration-thickness:1px;text-underline-offset:4px}
+@media(max-width:900px){#heidrun-intro{gap:6%;padding:54px 6%;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr)}#heidrun-intro .heidrun-editorial-photo{border-width:7px;border-radius:70px 22px 22px 22px;box-shadow:10px 10px 0 #ffd84d}#heidrun-intro .heidrun-editorial-body p{font-size:14px}#heidrun-intro .heidrun-editorial-opening p{font-size:26px}}
+@media(max-width:650px){#heidrun-intro{grid-template-columns:1fr;padding:42px 7%;gap:38px;background:linear-gradient(180deg,#e0f4ec 0%,#edf9f5 340px,#f5f5f5 600px)}#heidrun-intro .heidrun-editorial-photo{width:min(100%,340px);aspect-ratio:4/5;justify-self:center}#heidrun-intro .heidrun-editorial-copy{padding:0}#heidrun-intro .heidrun-editorial-opening p{font-size:27px}#heidrun-intro .heidrun-editorial-body p{font-size:15px}#heidrun-intro .heidrun-editorial-body p:nth-child(2){padding:18px}}
