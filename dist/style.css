@@ -186,3 +186,31 @@ header .brand-name{white-space:nowrap}
 header .brand-flower{position:static;width:46px;height:50px;grid-column:2;grid-row:1}
 header .brand-small{position:static;grid-column:1/-1;font-size:8px;line-height:1.4;letter-spacing:1.3px}
 @media(max-width:650px){header .brand{font-size:clamp(20px,6vw,28px);gap:3px 7px}header .brand-flower{width:38px;height:42px}header .brand-small{font-size:7px;letter-spacing:1px}}
+
+/* A brighter, playful editorial rhythm for HOLLA. */
+#holla-fundament{background:#f0faf6}
+#holla-fundament .foundation-heading{position:relative;isolation:isolate;padding:42px;border-radius:34px 80px 34px 34px;background:#dff5ed;align-items:center;gap:6%;overflow:hidden}
+#holla-fundament .foundation-heading:after{content:'';position:absolute;z-index:-1;width:210px;height:210px;border:34px solid #ffd84d;border-radius:50%;right:-85px;top:-110px;opacity:.8}
+#holla-fundament .foundation-heading h2{font-size:clamp(46px,5.4vw,78px);line-height:1.08;letter-spacing:-3px}
+#holla-fundament .foundation-heading h2 em{display:inline-block;color:#1769aa;background:linear-gradient(transparent 76%,#ffd84d 76%,#ffd84d 94%,transparent 94%)}
+#holla-fundament .foundation-heading .eyebrow{max-width:340px}
+#holla-fundament .foundation-intro .holla-lead{color:#102a43}
+#holla-fundament .holla-directions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;border:0;padding:0;margin:28px 0 40px;counter-reset:direction}
+#holla-fundament .holla-directions p{position:relative;padding:25px 24px;border-radius:22px;background:#fff1ae;color:#102a43;box-shadow:0 5px 0 #102a430a;transition:transform .2s;counter-increment:direction}
+#holla-fundament .holla-directions p:before{content:'0' counter(direction);display:block;margin-bottom:18px;font:800 12px 'Manrope',sans-serif;letter-spacing:2px;opacity:.65}
+#holla-fundament .holla-directions p:nth-child(2){background:#c5f1e3;border-radius:22px 44px 22px 22px}
+#holla-fundament .holla-directions p:nth-child(3){background:#d7ebfc}
+#holla-fundament .holla-directions strong{font-size:21px;line-height:1.4}
+#holla-fundament .holla-directions p:hover{transform:translateY(-4px)}
+#holla-fundament .holla-story-grid{gap:28px}
+#holla-fundament .holla-story-copy .holla-program-part{background:#fff;padding:30px;border:0;border-radius:26px;margin-bottom:24px}
+#holla-fundament .holla-story-copy .holla-program-part:nth-child(2){background:#e0effc;border-radius:26px 26px 60px 26px}
+#holla-fundament .holla-child-photo{padding:10px;background:#ffd84d;border-radius:30px 70px 30px 30px;transform:rotate(1deg);margin-bottom:24px}
+#holla-fundament .holla-child-photo img{border-radius:22px 62px 22px 22px}
+#holla-fundament .holla-story-image .holla-program-part{padding:28px;background:#d7f3e8;border-radius:26px}
+#holla-fundament .holla-practice-grid{padding:30px;background:#fff;border:0;border-radius:28px;margin-top:8px}
+#holla-fundament .holla-vision{border:0;border-radius:30px 30px 30px 5px;background:#d7ebfc;padding:32px}
+#holla-fundament .holla-vision p:first-child{font:600 clamp(21px,2.3vw,29px)/1.5 'Manrope',sans-serif;color:#174e7a}
+@media(max-width:850px){#holla-fundament .foundation-heading{padding:30px;border-radius:28px 60px 28px 28px}#holla-fundament .holla-directions{gap:12px}#holla-fundament .holla-directions p{padding:22px 18px}#holla-fundament .holla-directions strong{font-size:18px}}
+@media(max-width:650px){#holla-fundament .foundation-heading{padding:26px 22px;gap:22px}#holla-fundament .foundation-heading h2{font-size:45px;letter-spacing:-2px}#holla-fundament .holla-directions{grid-template-columns:1fr;gap:12px}#holla-fundament .holla-directions p{padding:20px 24px}#holla-fundament .holla-directions p:before{margin-bottom:10px}#holla-fundament .holla-directions strong{display:block;font-size:22px}#holla-fundament .holla-story-copy .holla-program-part,#holla-fundament .holla-story-image .holla-program-part,#holla-fundament .holla-practice-grid,#holla-fundament .holla-vision{padding:24px}#holla-fundament .holla-child-photo{transform:none}}
+@media(prefers-reduced-motion:reduce){#holla-fundament .holla-directions p:hover{transform:none}}
