@@ -228,3 +228,32 @@ header .brand-small{position:static;grid-column:1/-1;font-size:8px;line-height:1
 #heidrun-intro .heidrun-editorial-body a{font-weight:600;text-decoration-thickness:1px;text-underline-offset:4px}
 @media(max-width:900px){#heidrun-intro{gap:6%;padding:54px 6%;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr)}#heidrun-intro .heidrun-editorial-photo{border-width:7px;border-radius:70px 22px 22px 22px;box-shadow:10px 10px 0 #ffd84d}#heidrun-intro .heidrun-editorial-body p{font-size:14px}#heidrun-intro .heidrun-editorial-opening p{font-size:26px}}
 @media(max-width:650px){#heidrun-intro{grid-template-columns:1fr;padding:42px 7%;gap:38px;background:linear-gradient(180deg,#e0f4ec 0%,#edf9f5 340px,#f5f5f5 600px)}#heidrun-intro .heidrun-editorial-photo{width:min(100%,340px);aspect-ratio:4/5;justify-self:center}#heidrun-intro .heidrun-editorial-copy{padding:0}#heidrun-intro .heidrun-editorial-opening p{font-size:27px}#heidrun-intro .heidrun-editorial-body p{font-size:15px}#heidrun-intro .heidrun-editorial-body p:nth-child(2){padding:18px}}
+
+/* Spacious blue editorial footer, inspired by the supplied reference. */
+footer.footer-editorial{display:block;position:relative;isolation:isolate;background:#1769aa;color:#fff;padding:0;border:0;overflow:hidden}
+footer.footer-editorial:before{content:'';display:block;height:48px;background:#f5f5f5;border-radius:0 0 70px 70px;margin-bottom:0}
+.footer-editorial .footer-main{display:grid;grid-template-columns:1fr 1.1fr 1fr;gap:5%;align-items:center;padding:60px 7% 36px;min-height:330px}
+.footer-editorial .footer-brand{font:800 clamp(22px,2.3vw,32px)/1 'Manrope',sans-serif;letter-spacing:-1.3px;gap:6px;color:white}
+.footer-editorial .footer-mark{width:44px;height:52px}
+.footer-editorial .footer-motto{font-size:11px;letter-spacing:1.8px;text-transform:uppercase;margin:18px 0 30px;color:#e4f2fc}
+.footer-editorial .footer-social{display:flex;gap:13px}
+.footer-editorial .footer-social>a{width:48px;height:48px;background:#ffd84d;border:0;color:#102a43;display:flex;align-items:center;justify-content:center;border-radius:50%;transition:transform .2s,background .2s}
+.footer-editorial .footer-social>a:hover{transform:translateY(-4px);background:#20c997}
+.footer-editorial .footer-social svg{width:23px;height:23px}
+.footer-editorial .footer-books{position:relative;height:265px;align-self:end;pointer-events:none}
+.footer-editorial .footer-books img{position:absolute;height:240px;width:58%;object-fit:contain;filter:drop-shadow(8px 14px 9px #082b4c55);bottom:-30px;left:0;transform:rotate(-14deg)}
+.footer-editorial .footer-books img+img{left:39%;bottom:-42px;transform:rotate(12deg)}
+.footer-editorial .footer-invitation{position:relative;z-index:1}
+.footer-editorial .footer-invitation>p{font:800 clamp(27px,3vw,42px)/1.1 'Manrope',sans-serif;letter-spacing:-1.5px;margin:0 0 26px;color:white}
+.footer-editorial .footer-invitation .button{background:#ffd84d;color:#102a43;border:0;padding:16px 22px;gap:0}
+.footer-editorial .footer-invitation .button:hover{background:#20c997}
+.footer-editorial .footer-bottom{position:relative;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:23px 7%;background:#102a43}
+.footer-editorial .footer-legal{display:flex;gap:26px;flex-wrap:wrap;font-size:12px}
+.footer-editorial .footer-bottom p{font-size:11px;color:#dbe8f4;margin:0}
+@media(max-width:950px){.footer-editorial .footer-main{gap:4%;grid-template-columns:1fr .85fr 1fr;padding:45px 5% 30px}.footer-editorial .footer-brand{font-size:23px}.footer-editorial .footer-books{height:240px}.footer-editorial .footer-books img{height:210px}.footer-editorial .footer-invitation>p{font-size:30px}}
+@media(max-width:650px){footer.footer-editorial:before{height:34px;border-radius:0 0 40px 40px}.footer-editorial .footer-main{grid-template-columns:1fr;gap:34px;padding:42px 7% 0;text-align:center}.footer-editorial .footer-brand{font-size:29px}.footer-editorial .footer-social{justify-content:center}.footer-editorial .footer-motto{margin-bottom:22px}.footer-editorial .footer-invitation{grid-row:2}.footer-editorial .footer-invitation>p{font-size:36px}.footer-editorial .footer-books{grid-row:3;width:min(100%,310px);justify-self:center;height:230px}.footer-editorial .footer-books img{height:220px}.footer-editorial .footer-bottom{flex-direction:column;gap:17px;text-align:center;padding:25px 7%}.footer-editorial .footer-legal{justify-content:center}.footer-editorial .footer-main .footer-identity{width:100%}}
+.footer-editorial .footer-main{grid-template-columns:minmax(0,1fr) minmax(0,1.1fr) minmax(0,1fr)}
+.footer-editorial .footer-identity,.footer-editorial .footer-invitation,.footer-editorial .footer-books{display:block;min-width:0}
+.footer-editorial .footer-invitation .button{white-space:nowrap}
+@media(max-width:950px){.footer-editorial .footer-main{grid-template-columns:minmax(0,1fr) minmax(0,.85fr) minmax(0,1fr)}}
+@media(max-width:650px){.footer-editorial .footer-main{grid-template-columns:minmax(0,1fr)}}
