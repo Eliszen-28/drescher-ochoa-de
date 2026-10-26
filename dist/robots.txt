@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/sitemap.xml
+# Search retrieval is permitted, including ChatGPT Search.
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://drescher-ochoa.net/sitemap.xml

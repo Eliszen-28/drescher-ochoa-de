@@ -1,7 +1,7 @@
 from pathlib import Path
 from html import escape,unescape
 import json,re,unicodedata,xml.etree.ElementTree as ET
-root=Path(__file__).resolve().parents[1];dist=root/'dist';d=json.loads((dist/'data.js').read_text()[15:-1]);origin='https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site';author='Heidrun Drescher-Ochoa'
+root=Path(__file__).resolve().parents[1];dist=root/'dist';d=json.loads((dist/'data.js').read_text()[15:-1]);origin='https://drescher-ochoa.net';author='Heidrun Drescher-Ochoa'
 def text(s):return re.sub(r'\s+',' ',unescape(re.sub('<[^>]*>',' ',s))).strip()
 def slug(s):return re.sub('[^a-z0-9]+','-',unicodedata.normalize('NFKD',s).encode('ascii','ignore').decode().lower()).strip('-')
 def js(d):return json.dumps(d,ensure_ascii=False).replace('<','\\u003c')
@@ -42,3 +42,7 @@ for index in listing:
  for p,path in listing[index]:llms+='- ['+p['title']+']('+origin+path+'): '+p['topic']+'\n'
 (dist/'llms.txt').write_text(llms)
 print('Generated',len(urls),'indexable URLs, sitemap, robots.txt, structured data and llms.txt.')
+
+# Apply production-domain SEO after regenerating page content.
+import runpy
+runpy.run_path(str(root/"scripts"/"optimize-seo.py"),run_name="__main__")

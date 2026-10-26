@@ -2,51 +2,57 @@
 
 > Deutschsprachige Website von Dr. Heidrun Drescher-Ochoa über holistische Pädagogik, Selbsterkenntnis, Achtsamkeit und Potenzialentfaltung.
 
+
+## Autorin und internationaler Kontext
+Dr. phil. Heidrun Drescher-Ochoa M.A. ist Pädagogin, Autorin und Mentorin. Ihre Themen sind holistische Pädagogik, Logotherapie, Existenzanalyse, Enneagramm und Biografiearbeit. Sie lebt in Segovia, Spanien, und unterrichtete in Deutschland, Spanien und Argentinien (Lateinamerika). Ihre persönliche Akkreditierung stammt vom Viktor Frankl Institut Wien. Dies bezeichnet keine Niederlassung in Wien oder in anderen Ländern. Das HOLLA-Netzwerk ist unter https://www.holistischepaedagogik.de/ erreichbar.
+
+Die Inhalte dieser Website sind deutschsprachig und international zugänglich. Es gibt auf dieser Website derzeit keine eigenständige spanische Sprachversion.
+
 ## Übersichten
-- [Blog](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/blog/): Alle 28 Artikel.
-- [Bibliothek](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/bibliothek/): Bücher und wissenschaftliche Publikationen.
+- [Blog](https://drescher-ochoa.net/blog/): Alle 28 Artikel.
+- [Bibliothek](https://drescher-ochoa.net/bibliothek/): Bücher und wissenschaftliche Publikationen.
 
 ## Artikel und Bücher
-- [Netzwerk Holistische Pädagogik für eine humane Bildung!](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/netzwerk-holistische-padagogik-fur-eine-humane-bildung-58501/): Bildung & Wandel
-- [Studie warnt: Der Einsatz von KI reduziert eigenständige Denkleistung](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/studie-warnt-der-einsatz-von-ki-reduziert-eigenstandige-denkleistung-58497/): Denken & Medien
-- [Mit Enneagramm und Biographiearbeit zum eigenen Potenzial](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/mit-enneagramm-und-biographiearbeit-zum-eigenen-potenzial-58493/): Selbsterkenntnis
-- [Wir müssen nur die Blickrichtung ändern](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/wir-mussen-nur-die-blickrichtung-andern-58489/): Bildung & Wandel
-- [Liebe HOLLA-Freunde](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/liebe-holla-freunde-58473/): Bildung & Wandel
-- [Das Leben hat keinen Sinn!](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/das-leben-hat-keinen-sinn-58466/): Selbsterkenntnis
-- [Die Arbeit des Lehrers ist erst dann erfolgreich beendet](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/die-arbeit-des-lehrers-ist-erst-dann-erfolgreich-beendet-58424/): Bildung & Wandel
-- [Alchemie](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/alchemie-58397/): Bildung & Wandel
-- [Digitale Bildung?  – ein Widerspruch in sich und ein Holzweg für unsere Jugend?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/digitale-bildung-ein-widerspruch-in-sich-und-ein-holzweg-fur-unsere-jugend-58295/): Denken & Medien
-- [Bildung ohne Herz und Verstand ?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/bildung-ohne-herz-und-verstand-58287/): Bildung & Wandel
-- [Bildung neu aufstellen:](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/bildung-neu-aufstellen-58234/): Bildung & Wandel
-- [Ist Denken mit der KI erledigt?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/ist-denken-mit-der-ki-erledigt-58228/): Denken & Medien
-- [Was ist die HOLLA?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/was-ist-die-holla-58078/): Bildung & Wandel
-- [Wozu brauchen wir Achtsamkeitskultur in Schulen?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/wozu-brauchen-wir-achtsamkeitskultur-in-schulen-58012/): Achtsamkeit
-- [Das Enneagramm entdecken – für jugendliche Freigeister](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/das-enneagramm-entdecken-fur-jugendliche-freigeister-57930/): Selbsterkenntnis
-- [Unsere Sprache als Wegweiser für ein neues Bildungskonzept](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/unsere-sprache-als-wegweiser-fur-ein-neues-bildungskonzept-57768/): Bildung & Wandel
-- [Schule neu vermessen](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/schule-neu-vermessen-57754/): Bildung & Wandel
-- [Was hat Lesen mit Denken und Imaginationsfähigkeit zu tun?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/was-hat-lesen-mit-denken-und-imaginationsfahigkeit-zu-tun-57736/): Denken & Medien
-- [Der Geist des Menschen ist kein Gefäß](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/der-geist-des-menschen-ist-kein-gefa-57486/): Bildung & Wandel
-- [Wie kann unsere Bildungsqualität erhöht werden?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/wie-kann-unsere-bildungsqualitat-erhoht-werden-57473/): Bildung & Wandel
-- [Für eine sinnorientierte Pädagogik](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/fur-eine-sinnorientierte-padagogik-57449/): Selbsterkenntnis
-- [Was ist eine Kommunikations- und Interaktionsvereinbarung in einer Schulgemeinschaft?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/was-ist-eine-kommunikations-und-interaktionsvereinbarung-in-einer-schulgemeinschaft-57115/): Achtsamkeit
-- [Was bedeutet eine «Achtsamkeitskultur» in der Schule ?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/was-bedeutet-eine-achtsamkeitskultur-in-der-schule-57108/): Achtsamkeit
-- [Wie jedes Kind mit seinem besonderen Potenzial im Unterricht Selbstwirksamkeit und Partizipation erfahren kann](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/wie-jedes-kind-mit-seinem-besonderen-potenzial-im-unterricht-selbstwirksamkeit-und-partizipation-erfahren-kann-57104/): Bildung & Wandel
-- [Warum sollte Logotherapie in der Pädagogik Anwendung finden?](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/warum-sollte-logotherapie-in-der-padagogik-anwendung-finden-57097/): Bildung & Wandel
-- [Mobbing in der Schule – eine Herausforderung für den Paradigmenwechsel!](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/mobbing-in-der-schule-eine-herausforderung-fur-den-paradigmenwechsel-57094/): Achtsamkeit
-- [Warum wir ein neues Paradigma für die Bildung brauchen](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/warum-wir-ein-neues-paradigma-fur-die-bildung-brauchen-57092/): Bildung & Wandel
-- [Weniger Bildschirm, mehr Phantasie!](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/artikel/weniger-bildschirm-mehr-phantasie-57090/): Denken & Medien
-- [Das Enneagramm Entdecken](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/buecher/das-enneagramm-entdecken-book0/): Selbsterkenntnis
-- [Wie Holistische Pädagogik in die Schule kommt!](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/buecher/wie-holistische-padagogik-in-die-schule-kommt-book1/): Bildung & Wandel
-- [Produktives Denken und Handeln](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/buecher/produktives-denken-und-handeln-book2/): Bildung & Wandel
-- [Von der Raupe zum Schmetterling](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/buecher/von-der-raupe-zum-schmetterling-book3/): Achtsamkeit
-- [Change Management für den Paradigmenwechsel](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/buecher/change-management-fur-den-paradigmenwechsel-book4/): Bildung & Wandel
-- [Biographiearbeit an Schulen](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/buecher/biographiearbeit-an-schulen-book5/): Selbsterkenntnis
-- [Kultur der Freiheit](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/buecher/kultur-der-freiheit-book6/): Selbsterkenntnis
-- [Anti-Mobbing-Effekt für Schulen auf dem Weg in eine Achtsamkeitskultur](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/buecher/anti-mobbing-effekt-fur-schulen-auf-dem-weg-in-eine-achtsamkeitskultur-book7/): Achtsamkeit
+- [Netzwerk Holistische Pädagogik für eine humane Bildung!](https://drescher-ochoa.net/artikel/netzwerk-holistische-padagogik-fur-eine-humane-bildung-58501/): Bildung & Wandel
+- [Studie warnt: Der Einsatz von KI reduziert eigenständige Denkleistung](https://drescher-ochoa.net/artikel/studie-warnt-der-einsatz-von-ki-reduziert-eigenstandige-denkleistung-58497/): Denken & Medien
+- [Mit Enneagramm und Biographiearbeit zum eigenen Potenzial](https://drescher-ochoa.net/artikel/mit-enneagramm-und-biographiearbeit-zum-eigenen-potenzial-58493/): Selbsterkenntnis
+- [Wir müssen nur die Blickrichtung ändern](https://drescher-ochoa.net/artikel/wir-mussen-nur-die-blickrichtung-andern-58489/): Bildung & Wandel
+- [Liebe HOLLA-Freunde](https://drescher-ochoa.net/artikel/liebe-holla-freunde-58473/): Bildung & Wandel
+- [Das Leben hat keinen Sinn!](https://drescher-ochoa.net/artikel/das-leben-hat-keinen-sinn-58466/): Selbsterkenntnis
+- [Die Arbeit des Lehrers ist erst dann erfolgreich beendet](https://drescher-ochoa.net/artikel/die-arbeit-des-lehrers-ist-erst-dann-erfolgreich-beendet-58424/): Bildung & Wandel
+- [Alchemie](https://drescher-ochoa.net/artikel/alchemie-58397/): Bildung & Wandel
+- [Digitale Bildung?  – ein Widerspruch in sich und ein Holzweg für unsere Jugend?](https://drescher-ochoa.net/artikel/digitale-bildung-ein-widerspruch-in-sich-und-ein-holzweg-fur-unsere-jugend-58295/): Denken & Medien
+- [Bildung ohne Herz und Verstand ?](https://drescher-ochoa.net/artikel/bildung-ohne-herz-und-verstand-58287/): Bildung & Wandel
+- [Bildung neu aufstellen:](https://drescher-ochoa.net/artikel/bildung-neu-aufstellen-58234/): Bildung & Wandel
+- [Ist Denken mit der KI erledigt?](https://drescher-ochoa.net/artikel/ist-denken-mit-der-ki-erledigt-58228/): Denken & Medien
+- [Was ist die HOLLA?](https://drescher-ochoa.net/artikel/was-ist-die-holla-58078/): Bildung & Wandel
+- [Wozu brauchen wir Achtsamkeitskultur in Schulen?](https://drescher-ochoa.net/artikel/wozu-brauchen-wir-achtsamkeitskultur-in-schulen-58012/): Achtsamkeit
+- [Das Enneagramm entdecken – für jugendliche Freigeister](https://drescher-ochoa.net/artikel/das-enneagramm-entdecken-fur-jugendliche-freigeister-57930/): Selbsterkenntnis
+- [Unsere Sprache als Wegweiser für ein neues Bildungskonzept](https://drescher-ochoa.net/artikel/unsere-sprache-als-wegweiser-fur-ein-neues-bildungskonzept-57768/): Bildung & Wandel
+- [Schule neu vermessen](https://drescher-ochoa.net/artikel/schule-neu-vermessen-57754/): Bildung & Wandel
+- [Was hat Lesen mit Denken und Imaginationsfähigkeit zu tun?](https://drescher-ochoa.net/artikel/was-hat-lesen-mit-denken-und-imaginationsfahigkeit-zu-tun-57736/): Denken & Medien
+- [Der Geist des Menschen ist kein Gefäß](https://drescher-ochoa.net/artikel/der-geist-des-menschen-ist-kein-gefa-57486/): Bildung & Wandel
+- [Wie kann unsere Bildungsqualität erhöht werden?](https://drescher-ochoa.net/artikel/wie-kann-unsere-bildungsqualitat-erhoht-werden-57473/): Bildung & Wandel
+- [Für eine sinnorientierte Pädagogik](https://drescher-ochoa.net/artikel/fur-eine-sinnorientierte-padagogik-57449/): Selbsterkenntnis
+- [Was ist eine Kommunikations- und Interaktionsvereinbarung in einer Schulgemeinschaft?](https://drescher-ochoa.net/artikel/was-ist-eine-kommunikations-und-interaktionsvereinbarung-in-einer-schulgemeinschaft-57115/): Achtsamkeit
+- [Was bedeutet eine «Achtsamkeitskultur» in der Schule ?](https://drescher-ochoa.net/artikel/was-bedeutet-eine-achtsamkeitskultur-in-der-schule-57108/): Achtsamkeit
+- [Wie jedes Kind mit seinem besonderen Potenzial im Unterricht Selbstwirksamkeit und Partizipation erfahren kann](https://drescher-ochoa.net/artikel/wie-jedes-kind-mit-seinem-besonderen-potenzial-im-unterricht-selbstwirksamkeit-und-partizipation-erfahren-kann-57104/): Bildung & Wandel
+- [Warum sollte Logotherapie in der Pädagogik Anwendung finden?](https://drescher-ochoa.net/artikel/warum-sollte-logotherapie-in-der-padagogik-anwendung-finden-57097/): Bildung & Wandel
+- [Mobbing in der Schule – eine Herausforderung für den Paradigmenwechsel!](https://drescher-ochoa.net/artikel/mobbing-in-der-schule-eine-herausforderung-fur-den-paradigmenwechsel-57094/): Achtsamkeit
+- [Warum wir ein neues Paradigma für die Bildung brauchen](https://drescher-ochoa.net/artikel/warum-wir-ein-neues-paradigma-fur-die-bildung-brauchen-57092/): Bildung & Wandel
+- [Weniger Bildschirm, mehr Phantasie!](https://drescher-ochoa.net/artikel/weniger-bildschirm-mehr-phantasie-57090/): Denken & Medien
+- [Das Enneagramm Entdecken](https://drescher-ochoa.net/buecher/das-enneagramm-entdecken-book0/): Selbsterkenntnis
+- [Wie Holistische Pädagogik in die Schule kommt!](https://drescher-ochoa.net/buecher/wie-holistische-padagogik-in-die-schule-kommt-book1/): Bildung & Wandel
+- [Produktives Denken und Handeln](https://drescher-ochoa.net/buecher/produktives-denken-und-handeln-book2/): Bildung & Wandel
+- [Von der Raupe zum Schmetterling](https://drescher-ochoa.net/buecher/von-der-raupe-zum-schmetterling-book3/): Achtsamkeit
+- [Change Management für den Paradigmenwechsel](https://drescher-ochoa.net/buecher/change-management-fur-den-paradigmenwechsel-book4/): Bildung & Wandel
+- [Biographiearbeit an Schulen](https://drescher-ochoa.net/buecher/biographiearbeit-an-schulen-book5/): Selbsterkenntnis
+- [Kultur der Freiheit](https://drescher-ochoa.net/buecher/kultur-der-freiheit-book6/): Selbsterkenntnis
+- [Anti-Mobbing-Effekt für Schulen auf dem Weg in eine Achtsamkeitskultur](https://drescher-ochoa.net/buecher/anti-mobbing-effekt-fur-schulen-auf-dem-weg-in-eine-achtsamkeitskultur-book7/): Achtsamkeit
 
 ## HOLLA und Akkreditierung
-- [Unser Fundament](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/#holla-fundament): Existenzanalytische Grundlagen, Zusammenarbeit mit Existenzieller Pädagogik und GLE sowie die persönliche Akkreditierung von Dr. Heidrun Drescher-Ochoa (Juli 2026 bis Juli 2028).
+- [Unser Fundament](https://drescher-ochoa.net/#holla-fundament): Existenzanalytische Grundlagen, Zusammenarbeit mit Existenzieller Pädagogik und GLE sowie die persönliche Akkreditierung von Dr. Heidrun Drescher-Ochoa (Juli 2026 bis Juli 2028).
 
 ## Rechtliche Informationen
-- [Impressum](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/impressum/): Anbieter und Kontakt.
-- [Datenschutzerklärung](https://drescher-ochoa-lesewelten.elisaaguilar10524.chatgpt.site/datenschutzerklaerung/): Datenschutz und technische Umsetzung.
+- [Impressum](https://drescher-ochoa.net/impressum/): Anbieter und Kontakt.
+- [Datenschutzerklärung](https://drescher-ochoa.net/datenschutzerklaerung/): Datenschutz und technische Umsetzung.
